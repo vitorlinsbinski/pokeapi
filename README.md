@@ -9,4 +9,4 @@ It's a pokedex that shows all pokémons and their informations. It was used the 
 - Axios
 - FetchJS
 
-
+[PokeAPI Link](https://vitorlinsbinski.github.io/pokeapi) 
