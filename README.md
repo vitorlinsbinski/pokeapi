@@ -11,4 +11,4 @@ It's a pokedex that shows all pokémons and their informations. It was used the 
 
 [PokeAPI Link](https://vitorlinsbinski.github.io/pokeapi) 
 
-<img src = "./assets/screenshot-pokeapi">
+<img src = "./assets/screenshot-pokeapi.png">
