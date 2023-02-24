@@ -92,7 +92,7 @@ function createCardPokemon(code, type, name, imagePok) {
 
     // Criar a imagem do tipo do pokémon
     let imgIcon = document.createElement('img');
-    imgIcon.setAttribute('src', `/assets/icon-types/${type}.svg`);
+    imgIcon.setAttribute('src', `./assets/icon-types/${type}.svg`);
 
     iconDiv.appendChild(imgIcon);
 
@@ -360,7 +360,7 @@ function createListPokemonsArea(type, index) {
     iconDiv.classList = 'icon';
 
     let imgTypePokemon = document.createElement('img');
-    imgTypePokemon.setAttribute('src', `/assets/icon-types/${type}.svg`);
+    imgTypePokemon.setAttribute('src', `./assets/icon-types/${type}.svg`);
 
     let txtTypePokemon = document.createElement('span');
     txtTypePokemon.innerText = firstWordToUpperCase(type);
@@ -398,7 +398,7 @@ function createListPokemonsAreaMobile(type, index) {
     iconDiv.classList = 'icon';
 
     let imgTypePokemon = document.createElement('img');
-    imgTypePokemon.setAttribute('src', `/assets/icon-types/${type}.svg`);
+    imgTypePokemon.setAttribute('src', `./assets/icon-types/${type}.svg`);
 
     let txtTypePokemon = document.createElement('span');
     txtTypePokemon.innerText = firstWordToUpperCase(type);
