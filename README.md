@@ -1,5 +1,5 @@
 # pokeapi
-It's a pokedex that shows all pokémons and their informations
+It's a pokedex that shows all pokémons and their informations. It was used the public Pokémon API.
 
 ## Technologies 
 - HTML5
